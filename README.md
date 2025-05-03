@@ -7,4 +7,4 @@ A custom logging system using Winston logs all errors with timestamps and detail
 
 The application performs all basic CRUD operations (Create, Read, Update, Delete) using axios, and includes proper try-catch blocks for safe execution.
 
-Please refer to the LOGGING_STRATEGY.md for a summary of the logging implementation.
+
